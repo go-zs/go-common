@@ -1,7 +1,7 @@
 package date
 
 import (
-	"github.com/go-zs/gocommon/constant"
+	"github.com/go-zs/go-common/constant"
 	"time"
 )
 
